@@ -62,4 +62,4 @@ Segment list plus virtual scroll in the chat column, chunk storage instead of `s
 - stream segment ordering through tool interruptions
 - diff helper correctness
 
-WebSocket chaos itself is manual: run the server in chaos mode and confirm via `/log` plus the screen recording.
+WebSocket chaos itself is manual: run the server in chaos mode.
