@@ -58,17 +58,6 @@ Verify protocol behaviour:
 curl -s http://localhost:4747/log | jq .
 ```
 
-## Screenshots
-
-Add these before submission (normal mode):
-
-1. `docs/screenshots/stream-with-tool.png` — streamed answer with a tool card mid-response
-2. `docs/screenshots/trace-timeline.png` — trace panel with batched token row expanded
-3. `docs/screenshots/context-diff.png` — context inspector on snapshot 2+ with diff colours
-
-## Chaos recording
-
-Record 3–5 minutes against `--mode chaos`, labelling each scenario listed in the assignment. Place the file at `docs/chaos-demo.mp4` or link it in your submission email.
 
 ## Tests
 
